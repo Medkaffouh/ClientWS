@@ -22,3 +22,6 @@ public class ClientWS {
 
 
 //proxy ou stub
+
+
+//tu peux generé le proxy (ou stub) sans utiliser un tools par command "wsimport"
